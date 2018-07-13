@@ -9,4 +9,8 @@ class GardenGnome
   def personality=(p)
     @personality = p
   end
+  
+  def gnaw
+    
+  end
 end
