@@ -14,6 +14,6 @@ class GardenGnome
     "Gnawing on a tree!!!"
   end
   def shout
-    "Gnawing on a tree!!!
+    
   end
 end
