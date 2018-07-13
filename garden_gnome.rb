@@ -1,4 +1,7 @@
 # Code your instances here
 class GardenGnome
-  attr_accessor :name, :age, :gluten_allerg
+  attr_accessor :name, :age, :gluten_allergy
+  
+  def personality=(p)
+    @personality = p
 end
